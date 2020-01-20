@@ -2,7 +2,7 @@
 	"name": "dwd-front-snippets",
 	"displayName": "dwd-front-snippets",
 	"description": "dwd-front-snippets",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"publisher": "enochjs",
 	"engines": {
 		"vscode": "^1.28.0"
@@ -11,9 +11,9 @@
 		"Snippets"
 	],
 	"repository": {
-    "type": "git",
-    "url": "git@github.com:enochjs/testsnipptes.git"
-  },
+		"type": "git",
+		"url": "git@github.com:enochjs/testsnipptes.git"
+	},
 	"contributes": {
 		"snippets": [
 			{
