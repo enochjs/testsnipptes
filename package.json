@@ -2,7 +2,7 @@
 	"name": "enochjs-test",
 	"displayName": "enochjs-test",
 	"description": "enochjs-test",
-	"version": "0.0.4",
+	"version": "0.0.1",
 	"publisher": "enochjs",
 	"engines": {
 		"vscode": "^1.28.0"
