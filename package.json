@@ -1,0 +1,21 @@
+{
+	"name": "dwd-front-snippets",
+	"displayName": "dwd-front-snippets",
+	"description": "dwd-front-snippets",
+	"version": "0.0.2",
+	"publisher": "enochjs",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets.json"
+			}
+		]
+	}
+}
